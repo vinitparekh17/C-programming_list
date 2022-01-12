@@ -36,7 +36,7 @@ void main()
         scanf("%d", &b);
         printf("Enter value of height : ");
         scanf("%d", &h);
-        printf("Area of tringle = %d", (b * h) / 2);
+        printf("Area of triangle = %d", (b * h) / 2);
     }
     break;
     case 4:
