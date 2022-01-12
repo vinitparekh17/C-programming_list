@@ -16,19 +16,22 @@ void main()
     {
     case 1:
         printf("Addition is %d", num1 + num2);
-        break;
+    break;
     case 2:
         printf("Substraction is %d", num1 - num2);
         break;
     case 3:
         printf("Multiplication is %d", num1 * num2);
-        break;
+    break;
     case 4:
         printf("Division is %d", num1 / num2);
         break;
     case 5:
         printf("Modulo is %d", num1 % num2);
-        break;
+    break;
+    default:
+        printf("Invalid Choice ! ");
+    break;
     }
     getch();
 }
