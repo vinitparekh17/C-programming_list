@@ -9,7 +9,7 @@ int main()
     for (i = 'a'; i <= 'z'; i++)
     {
         printf("%c : %d\n", i, i);
-    };
+    }
     printf("\n \n \n");
     for (i = 'A'; i <= 'Z'; i++)
     {
