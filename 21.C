@@ -25,7 +25,7 @@ void main()
     break;
     case 4:
         printf("Division is %d", num1 / num2);
-        break;
+    break;
     case 5:
         printf("Modulo is %d", num1 % num2);
     break;
