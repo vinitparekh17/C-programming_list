@@ -1,4 +1,4 @@
-// Program to write asiii table for upperiase and loweriase
+// Program to write ascii table for uppercase and lowercase latters.
 
 #include <stdio.h>
 #include <conio.h>
