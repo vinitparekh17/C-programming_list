@@ -41,7 +41,7 @@ void main()
     break;
     case 4:
     {
-        printf("Enter radius of length : ");
+        printf("Enter value of length : ");
         scanf("%d", &l);
         printf("Enter value of bradth : ");
         scanf("%d", &b);
