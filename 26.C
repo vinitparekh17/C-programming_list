@@ -1,7 +1,7 @@
 // Program to find GCD and LCM
 
 #include <stdio.h>
-#include <stdio.h>
+#include <conio.h>
 void main()
 {
     int n1, n2, i, gcd, lcm;
